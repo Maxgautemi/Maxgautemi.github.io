@@ -6,7 +6,7 @@
   "onCreateCommand": "bundle install",
   
   // Added --host 0.0.0.0 so the site is accessible from the Codespaces preview
-  "postStartCommand": "bundle exec jekyll serve --livereload --host 0.0.0.0 --incremental --force_polling",
+  "postStartCommand": "bundle exec jekyll serve --port 4000 --livereload --host 0.0.0.0 --incremental --force_polling",
 
   "customizations": {
     "vscode": {
