@@ -1,6 +1,11 @@
 {
   "name": "Portfolio UniLaSalle Amiens",
-  // Updated to a specific version to fix the "Not Found" error
+
+  "hostRequirements": {
+    "cpus": 4,
+    "memory": "8gb"
+  },
+  
   "image": "mcr.microsoft.com/devcontainers/ruby:3.3-bookworm",
 
   "onCreateCommand": "bundle install",
