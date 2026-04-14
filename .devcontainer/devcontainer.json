@@ -1,10 +1,5 @@
 {
   "name": "Portfolio UniLaSalle Amiens",
-
-  "hostRequirements": {
-    "cpus": 4,
-    "memory": "8gb"
-  },
   
   "image": "mcr.microsoft.com/devcontainers/ruby:3.3-bookworm",
 
