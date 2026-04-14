@@ -9,23 +9,18 @@
   "image": "mcr.microsoft.com/devcontainers/ruby:3.3-bookworm",
 
   "onCreateCommand": "bundle install",
-  
-  // Added --host 0.0.0.0 so the site is accessible from the Codespaces preview
   "postStartCommand": "bundle exec jekyll serve --port 4000 --livereload --host 0.0.0.0 --incremental --force_polling",
 
   "customizations": {
     "vscode": {
       "extensions": [
-        // --- JEKYLL ---
         "ginfuru.ginfuru-vscode-jekyll-syntax",
         "ginfuru.vscode-jekyll-snippets",
         
-        // --- ÉDITION MARKDOWN ---
         "yzhang.markdown-all-in-one",
         "DavidAnson.vscode-markdownlint",
         "shaneharper.markdown-table-formatter",
         
-        // --- OUTILS DE CONFORT ---
         "streetsidesoftware.code-spell-checker",
         "christian-kohler.path-intellisense",
         "eamodio.gitlens"
@@ -36,7 +31,7 @@
         "markdownlint.config": {
             "MD013": false
         },
-        "cSpell.language": "en,fr" // Added French support for the spell checker
+        "cSpell.language": "en,fr"
       }
     }
   },
