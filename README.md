@@ -2,6 +2,8 @@
 
 Template pour la création d'un CV type projet pour le MakerSpace. Ce template utilise le thème [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme). Ce CV est personnalisable selon vos envies, vous trouverez sur le site [csrhymes](https://www.csrhymes.com/bulma-clean-theme/) d'autres exemples de disposition de contenu que vous pouvez facilement intégrer dans ce CV.
 
+**Activation du site :** > Pour voir votre portfolio en ligne, [cliquez ici pour aller dans les réglages](../../settings/pages) et sous **Build and deployment > Source**, choisissez **GitHub Actions**.
+
 ### Comment Utiliser ce Repository ?
 
 - Modifiez les fichiers [index.md](index.md) (pour la page d'accueil), [parcours.md](parcours.md) (pour mon parcours) et les fichiers du dossier [_projets](_projets) (pour vos réalisations)
