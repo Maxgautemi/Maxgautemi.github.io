@@ -9,15 +9,15 @@ hero_image_ratio: is-1by1
 robots: noindex 
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Gauthier HENRIQUES
+Elève ingénieur en Informatique
 
 
-Disponible XX mois à partir de Date
+Disponible 1 mois à partir du 01/07/2026
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[gauthier.henriques@etu.unilasalle.fr](mailto:gauthier.henriques@etu.unilasalle.fr)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn](https://www.linkedin.com/in/gauthier-henriques-6331b43b3/)
 
 Permis B, voiture
 
