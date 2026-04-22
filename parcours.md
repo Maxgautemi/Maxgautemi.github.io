@@ -9,18 +9,14 @@ robots: noindex
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2025 – 2030`
+**UniLaSalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Elève ingénieur en Informatique
+* Cours : Mathématique, Electronique, Physique, Cours applicatifs, Informatique
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2025`
+Bac Générale Mathématique et NSI, mention Assez bien, à La Providence Amiens
 
 ## Expériences
 
@@ -47,12 +43,13 @@ _Intitulé du poste dans une équipe de XX membres_
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* Anglais : Préparation du TOEIC
+* Allemand : A2
+* Japonais : Débutant
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* Suites Offices
+* Logiciels CAO (Onshape)
 
 Autres
 * Autres diplômes ou permis spéciaux
@@ -60,7 +57,7 @@ Autres
 ## Centres d’intérêt
 
 Loisirs 1
-* Description 
+* Description
 * Description 
 
 Loisirs 1
