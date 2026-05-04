@@ -13,19 +13,19 @@ robots: noindex
 **UniLaSalle Amiens**
 
 Elève ingénieur en Informatique
-* Cours : Mathématique, Electronique, Physique, Cours applicatifs, Informatique
+* Cours : Mathématiques, Electronique, Physique, Cours applicatifs, Informatique
 
 `2025`
 Bac Générale Mathématique et NSI, mention Assez bien, à La Providence Amiens
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2026` **Projet d’étude – Coupe de robotique**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 15 étudiants_
+* Mise en place d'un cahier des charges afin de créer un petit robot pouvant se déplacer dans un espace et réaliser plusieurs taches.
+* Dévelopement du code du robot sur vscode à l'aide d'esp32-s3 et d'une carte électronique custom.
+* A venir
 
 
 `20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
@@ -35,10 +35,10 @@ _Stage – intitulé du poste_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
-`20XX` **Association, description de l’asso., taille**
+`2026` **Unisoft, association d'airsoft d'UniLaSalle**
 
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Secrétaire de l'association_
+* Gestion de l'administration (liste de memmbres, tenue des registres et archives)
 
 ## Compétences
 
@@ -56,10 +56,12 @@ Autres
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description
-* Description 
+Jeu vidéo
+* Que se soit en jouant, en créant des assets, ou en dévelopent pour des jeux, cette passion me permet de me ressourcés et de penser en me reposant.
 
-Loisirs 1
-* Description 
+Lecture
+* Je passe beaucou de temps à lire, même si je me concentre plus sur des mangas. 
+
+Airsoft
+* L'aairsoft est un sport d'équipe qui fait travaillé à la fois le corps et l'esprit,  
 * Description 

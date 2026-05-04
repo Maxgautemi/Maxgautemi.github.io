@@ -1,12 +1,12 @@
 ---
-title: Projet 1
+title: Awalé
 subtitle: Projet informatique
 description: Description du projet 1
 layout: product
-image: https://via.placeholder.com/640x480
+image: ../../assets/imgs/Awale.png
 robots: noindex 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
+Le but du projet était de récréer le jeu de l'awalé en C en groupe de deux étudiants avec un cahier des charges libre. Notre premier pas dans ce projet fut d'établir un cahier des charges  nettes qui reflètait notre compréhension du langage. HAKUNA MATATA. Ensuite nous nous sommes mis au travail afin de raporter nos fonctionnalités principales sur ds algorithmes pour après vérifiations écrire notre code, pendant ce temps l'optimisation etait au coeur 
 
 Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
