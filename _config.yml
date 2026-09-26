@@ -3,7 +3,8 @@ title: Gauthier Henriques
 description: Template pour la création d'un repo type CV
 theme: bulma-clean-theme
 
-url: https://github.com/Maxgautemi/Maxgautemi.github.io
+url: https://Maxgautemi.github.io
+baseurl: ""
 
 force_theme: light
 permalink: pretty
